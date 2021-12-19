@@ -1,0 +1,64 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/doomovie-epl1.png",TRUEPREMIERHD1
+https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/doomovie-epl2.png",TRUEPREMIERHD2
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/tpf2/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/doomovie-epl3.png",TRUEPREMIERHD3
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/tpf3/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/doomovie-epl4.png",TRUEPREMIERHD4
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/tpf4/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/doomovie-epl5.png",TRUEPREMIERHD5
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/tpf5/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://mobetsbo.com/api/table/icon/beINSports1.png",BEIN1#
+https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://mobetsbo.com/api/table/icon/beINSports2.png",BEIN2
+https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://www.liveballsod.com/api/table/icon/ch087.png",ASTROSUPERSPORT1
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/astro1/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://mobetsbo.com/api/table/icon/ch396.png",ASTROSUPERSPORT2
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/astro2/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://mobetsbo.com/api/table/icon/ch397.png",ASTROSUPERSPORT3
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/astro3/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://mobetsbo.com/api/table/icon/ch398.png",ASTROSUPERSPORT4
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/astro4/chunks.m3u8
+
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-ch7.png",CH7 HD
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/ch7hd/chunks.m3u8
+
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-ch3.png",CH3 HD
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/ch3hd/chunks.m3u8
+
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-ch5.png",CH5 HD
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/ch5hd/chunks.m3u8
+
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-pptv.png",PPTV
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/pptv/chunks.m3u8
+
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-ch8.png",CH8 HD
+
+
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-gmmone.png",ONE31 HD
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/one31/chunks.m3u8
+
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-mcot.png",MCOT HD
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/mcothd/chunks.m3u8
+
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/sd-nbt.png",NBT 
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/nbt/chunks.m3u8
+
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/sd-gmmchannel.png",GMM25
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/gmm25/chunks.m3u8
+
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-mono.png",MONO29
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/mono29/chunks.m3u8
