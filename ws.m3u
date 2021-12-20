@@ -152,6 +152,12 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/lifetime/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/182px-Cartoon_Network_logo_%282004-2010%29.svg.png",CARTOON NETWORK
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/kids/cnhd/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png", HBO SIGNATURE
+http://183.178.58.115:8031/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/275px-Cinemax_2016.svg.png",CINEMAX
+http://183.178.58.115:8029/0.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/CartoonClub.png",CARTOON CLUB
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist_w1188478123.m3u8
 
@@ -214,6 +220,9 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/150px-TVRILogo2019.svg.png",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logotipo_de_RCTV.svg/220px-Logotipo_de_RCTV.svg.png",TVRI
+https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 
 
 #
