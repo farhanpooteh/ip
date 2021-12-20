@@ -221,7 +221,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/150px-TVRILogo2019.svg.png",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logotipo_de_RCTV.svg/220px-Logotipo_de_RCTV.svg.png",TVRI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logotipo_de_RCTV.svg/220px-Logotipo_de_RCTV.svg.png",RCTV
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 
 
