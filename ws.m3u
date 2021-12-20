@@ -60,6 +60,18 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/spotv2/chunks.m3u8
 #EXTINF:-1 tvg-logo="",MOTOR VISION
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/motor-vision/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-nba.png",NBT TV
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/nba/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-tennis.png",TRUE TENNIS
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/tennis/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-golf.png",GOLF CHANNEL
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/golf/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/nfl-network.png",NFL NETWORK
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/nfl/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-ch7.png",CH7 HD
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/ch7hd/chunks.m3u8
 
