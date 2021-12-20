@@ -15,11 +15,11 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/tpf4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/doomovie-epl5.png",TRUEPREMIERHD5
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/tpf5/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://mobetsbo.com/api/table/icon/beINSports1.png",BEIN1#
+#EXTINF:-1 tvg-logo="https://mobetsbo.com/api/table/icon/beINSports1.png",BEIN1
 https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mobetsbo.com/api/table/icon/beINSports2.png",BEIN2
-https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/bein2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch087.png",ASTROSUPERSPORT1
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/astro1/chunks.m3u8
@@ -113,5 +113,12 @@ https://www.livedoomovie.com:4431/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-foxpremium.png",FOX ACTION PREMIUM
 https://www.livedoomovie.com:4431/02_FoxMoviesHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-axn.png",AXN
+#EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-axn.p
+ng",AXN
 https://www.livedoomovie.com:4431/02_AXNHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/182px-Cartoon_Network_logo_%282004-2010%29.svg.png",CARTOON NETWORK
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/kids/cnhd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo+"https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png",NATIONAL GEOGRAPHIC
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/natgeo/chunks.m3u8
