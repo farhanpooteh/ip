@@ -21,6 +21,9 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/bein1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://mobetsbo.com/api/table/icon/beINSports2.png",BEIN2
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/bein2/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/uk-mutv.jpg",MUTV
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/mutv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.liveballsod.com/api/table/icon/ch087.png",ASTROSUPERSPORT1
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/astro1/chunks.m3u8
 
@@ -169,6 +172,9 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/natgeo/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_320.png",DISCOVERY CHANNEL
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/discovery/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-discovery.png",DISCOVERY ASIA
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/disasia/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-history.png",HISTORY HD
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/history/chunks.m3u8
