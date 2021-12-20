@@ -143,6 +143,9 @@ https://www.livedoomovie.com:4431/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-axn.png",AXN
 https://www.livedoomovie.com:4431/02_AXNHD_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="",LIFETIME
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/lifetime/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/182px-Cartoon_Network_logo_%282004-2010%29.svg.png",CARTOON NETWORK
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/kids/cnhd/chunks.m3u8
 
@@ -152,24 +155,44 @@ http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/c
 #EXTINF:-1 tvg-logo="https://www.doonee.com/images/icons/toonee-logo.png",TOONEE
 https://stream-04.sg1.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDULd1pbPs1Cmoxf7psJBcY2U)/dm/3/x7yxv78/s/live-1.m3u8
 
+#EXTINF:-1 tvg-logo="",NICKELODEON
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/kids/nickelodeon/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rIYg6jfkU1c/YTscHhAl1YI/AAAAAAAAF3E/8dlbV_8sEIQptYOD2eXHyaYVHXrsKCMXQCLcBGAsYHQ/s1600/Logo%2BAniplus%2BAsia.png",ANIPLUS
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/kids/aniplus/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/19-193441_dreamworks-animation-skg-logo-vector-hd-png-download.png",DREAMWORKS
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/dreamworks/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png",NATIONAL GEOGRAPHIC
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/natgeo/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_320.png",DISCOVERY CHANNEL
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/discovery/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-history.png",HISTORY HD
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/history/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-animalplanet.png",ANIMAL PLANET
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/animalplanet/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/665px-Asian_Food_Network.svg.png",AFN CHANNEL
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/afn/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="",FOOD NETWORK
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/foodnetwork/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="",WAKU WAKU
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/wakuwakujapan/chunks.m3u8
 
-#EXTINF:-1 tvg-logo"",
-#EXTINF:-1 tvg-logo"",
-#EXTINF:-1 tvg-logo"",
-#EXTINF:-1 tvg-logo"",
-#EXTINF:-1 tvg-logo"",
-#EXTINF:-1 tvg-logo"",
-#EXTINF:-1 tvg-logo"",
-#EXTINF:-1 tvg-logo"",
+#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-cnn.png",CNN
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/news/cnn/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/Al_Jazeera_En.png",ALJAZEERA ARABIC
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/Al_Jazeera_En.png",ALJAZEERA ENGLISH
+https://live-hls-web-aje.getaj.net/AJE-b/01.m3u8
+#EXTINF:-1 tvg-logo="",
 
 #
