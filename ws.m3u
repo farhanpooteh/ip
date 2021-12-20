@@ -84,6 +84,15 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/gmm25/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-mono.png",MONO29
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/mono29/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-amarin.png",AMARIN TV
+https://p0.cdn.vet/live/ch26/i/ch26i.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-thairath.png",THAIRAT TV
+https://p0.cdn.vet/live/ch39/i/ch39i.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-workpoint.png",WORKPOINT TV
+https://www.livedoomovie.com:4431/02_WORKPOINT_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tv1-rtm-logo-vector-720x340.jpg",RTM TV1
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
@@ -110,11 +119,14 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/truemoviehits/chunks.
 #EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-foxpremium.png",FOX ACTION PREMIUM
 https://www.livedoomovie.com:4431/02_FoxMoviesHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="",AXN
+#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-axn.png",AXN
 https://www.livedoomovie.com:4431/02_AXNHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/182px-Cartoon_Network_logo_%282004-2010%29.svg.png",CARTOON NETWORK
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/kids/cnhd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo"",CARTOON CLUB
+https://p0.cdn.vet/live/ch31/i/ch31i.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png",NATIONAL GEOGRAPHIC
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/natgeo/chunks.m3u8
@@ -126,7 +138,7 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/discovery/chunks.m3u8
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/afn/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo"",
+
 #EXTINF:-1 tvg-logo"",
 #EXTINF:-1 tvg-logo"",
 #EXTINF:-1 tvg-logo"",
