@@ -112,8 +112,7 @@ https://www.livedoomovie.com:4431/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-foxpremium.png",FOX ACTION PREMIUM
 https://www.livedoomovie.com:4431/02_FoxMoviesHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-axn.p
-ng",AXN
+#EXTINF:-1 tvg-logo="",AXN
 https://www.livedoomovie.com:4431/02_AXNHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/182px-Cartoon_Network_logo_%282004-2010%29.svg.png",CARTOON NETWORK
