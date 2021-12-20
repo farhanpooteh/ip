@@ -146,10 +146,10 @@ https://www.livedoomovie.com:4431/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/182px-Cartoon_Network_logo_%282004-2010%29.svg.png",CARTOON NETWORK
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/kids/cnhd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo"https://www.img10.xyz/assets/img/ch_logo/CartoonClub.png",CARTOON CLUB
+#EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/CartoonClub.png",CARTOON CLUB
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist_w1188478123.m3u8
 
-#EXTINF:-1 tvg-logo"https://www.doonee.com/images/icons/toonee-logo.png",TOONEE
+#EXTINF:-1 tvg-logo="https://www.doonee.com/images/icons/toonee-logo.png",TOONEE
 https://stream-04.sg1.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDULd1pbPs1Cmoxf7psJBcY2U)/dm/3/x7yxv78/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png",NATIONAL GEOGRAPHIC
