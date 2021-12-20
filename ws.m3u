@@ -143,7 +143,7 @@ https://www.livedoomovie.com:4431/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-axn.png",AXN
 https://www.livedoomovie.com:4431/02_AXNHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="",LIFETIME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png",LIFETIME
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/lifetime/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/182px-Cartoon_Network_logo_%282004-2010%29.svg.png",CARTOON NETWORK
@@ -155,7 +155,7 @@ http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/c
 #EXTINF:-1 tvg-logo="https://www.doonee.com/images/icons/toonee-logo.png",TOONEE
 https://stream-04.sg1.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDULd1pbPs1Cmoxf7psJBcY2U)/dm/3/x7yxv78/s/live-1.m3u8
 
-#EXTINF:-1 tvg-logo="",NICKELODEON
+#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/18-181866_dream-logos-wiki-nickelodeon-splat-logo-blank-hd.png",NICKELODEON
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/kids/nickelodeon/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rIYg6jfkU1c/YTscHhAl1YI/AAAAAAAAF3E/8dlbV_8sEIQptYOD2eXHyaYVHXrsKCMXQCLcBGAsYHQ/s1600/Logo%2BAniplus%2BAsia.png",ANIPLUS
@@ -179,10 +179,10 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/animalplanet/chunks.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/665px-Asian_Food_Network.svg.png",AFN CHANNEL
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/documentary/afn/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="",FOOD NETWORK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png",FOOD NETWORK
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/foodnetwork/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="",WAKU WAKU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/220px-WakuWaku_Japan_logo.svg.png",WAKU WAKU
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/wakuwakujapan/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-cnn.png",CNN
