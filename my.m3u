@@ -33,6 +33,31 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/astro3/chunks.m3u8
 #EXTINF:-1 group-title="SPORT"tvg-logo="https://mobetsbo.com/api/table/icon/ch398.png",ASTROSUPERSPORT4
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/astro4/chunks.m3u8
 
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-tsport1.png",TRUESPORT1
+https://www.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-tsport2.png",TRUESPORT2
+https://sport.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-tsport3.png",TRUESPORT3
+https://www.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-tsport4.png",TRUESPORT4
+https://www.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/sd-tsport7.png",TRUESPORT7
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/tsp7/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-spotv1.png",FOX SPORT 1
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/spotv/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-spotv2.png",FOX SPORT 2
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/spotv2/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/sd-foxsports3.png",FOX SPORT 3
+https://www.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
+
+
 #EXTINF:-1 group-title="DIGITAL TV"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-ch7.png",CH7 HD
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/ch7hd/chunks.m3u8
 
@@ -46,7 +71,7 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/ch5hd/chunks.m3u8
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/pptv/chunks.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-ch8.png",CH8 HD
-
+https://www.livedoomovie.com:4431/02_8HD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-gmmone.png",ONE31 HD
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/one31/chunks.m3u8
@@ -62,3 +87,23 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/gmm25/chunks.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-mono.png",MONO29
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/digitaltv/mono29/chunks.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tv1-rtm-logo-vector-720x340.jpg",RTM1
+https://rtmlive01.secureswiftcontent.com/rtmchannel/01-720.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA"tvg-logo="",TV2
+https://rtmlive05.secureswiftcontent.com/rtmchannel/05-manifest.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA"tvg-logo="https://telegra.ph/file/d42f0069da7ecd9ec0d5f.jpg",ASTRO AWANI
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+
+#EXTINF:-1 group-title="MOVIES"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-warnertv.png",WARNER TV HD
+https://www.livedoomovie.com:4431/02_WarnerTVHD_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="MOVIES"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-foxpremium.png",FOX ACTION PREMIUM
+https://www.livedoomovie.com:4431/02_FoxMoviesHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="MOVIES"tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-axn.png",AXN
+https://www.livedoomovie.com:4431/02_AXNHD_720p/chunklist.m3u8
